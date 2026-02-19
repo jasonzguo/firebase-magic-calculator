@@ -1,0 +1,6 @@
+@BASE_URL = http://127.0.0.1:5001/keen-bebop-685/us-central1
+
+GET {{BASE_URL}}/getDateFromText?text=我的生日是9月24
+Accept: application/text/plain
+
+###
